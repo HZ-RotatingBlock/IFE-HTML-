@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# IFE:任务一：零基础HTML编码
 
-You can use the [editor on GitHub](https://github.com/HZ-RotatingBlock/IFE-HTML-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 任务目的
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 了解HTML的定义、概念、发展简史
+- 掌握常用HTML标签的含义、用法
+- 能够基于设计稿来合理规划HTML文档结构
+- 理解语义化，合理地使用HTML标签来构建页面
 
-### Markdown
+## 任务描述
+参考[示例图](http://7xrp04.com1.z0.glb.clouddn.com/task_1_1_1.jpg)，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HZ-RotatingBlock/IFE-HTML-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 任务注意事项
+- 了解HTML的定义、概念、发展简史
+- 掌握常用HTML标签的含义、用法
+- 能够基于设计稿来合理规划HTML文档结构
+- 理解语义化，合理地使用HTML标签来构建页面
+## 在线参考学习资料
+- [Web相关名词通俗解释](https://www.zhihu.com/question/22689579)
+- [MDN HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction)
+- [慕课HTML+CSS基础教程视频](http://www.imooc.com/learn/9)
